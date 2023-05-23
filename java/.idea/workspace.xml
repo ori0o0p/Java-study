@@ -11,7 +11,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="2OHB7bA9ckSSddtAMtYvCqTtfR8" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -24,7 +24,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/user/Desktop/github/backend/back-end",
+    "last_opened_file_path": "C:/Users/user/Desktop/github/java01",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -41,6 +41,7 @@
       <option name="presentableId" value="Default" />
       <updated>1681207461900</updated>
       <workItem from="1681207463450" duration="544000" />
+      <workItem from="1681726762326" duration="36000" />
     </task>
     <servers />
   </component>
